@@ -1,5 +1,7 @@
 # LSP(language server protocol) defines for golang
 
+!!!FORKED FROM https://github.com/TobiasYin/go-lsp!!!
+
 [lsp](https://microsoft.github.io/language-server-protocol) types is from [vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node).
 
 Project is working in progress.
